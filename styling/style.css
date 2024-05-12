@@ -97,3 +97,11 @@ body {
   bottom: -4px;
   left: 20px;
 }
+
+#hero{
+  background-image: url("/images/hero4.png");
+  height: 90vh;
+  width: 100%;
+  background-size: cover;
+  background-position: top 25% right 0;
+}
