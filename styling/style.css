@@ -191,7 +191,7 @@ body {
   text-align: center;
 }
 
-#product1 .pro-container{
+#product1 .pro-container {
   display: flex;
   justify-content: space-between;
   padding-top: 20px;
@@ -206,7 +206,7 @@ body {
   border-radius: 25px;
   cursor: pointer;
   box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
-  margin: 15pX 0;
+  margin: 15px 0;
   transition: 0.2s ease;
   position: relative;
 }
